@@ -1,0 +1,20 @@
+.nav {
+    padding: 10px;
+}
+
+.dropdown-menu {
+    padding: 10px;
+}
+
+.dropdown-menu li {
+    list-style: none;
+}
+
+.dropdown-menu li a {
+    color: black;
+    text-decoration: none;
+    width: 100%;
+}
+.dropdown-menu li a:hover {
+    background-color:#ffca2c;
+}
